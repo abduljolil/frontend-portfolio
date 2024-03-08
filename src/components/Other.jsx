@@ -6,7 +6,7 @@ import { SiNetlify } from "react-icons/si";
 const OtherSkill = () => {
 
     return (
-        <div className="card w-96 bg-base-100 shadow-xl">
+        <div className="card   bg-base-100 shadow-xl">
             <figure >
                 <img   src="https://i.postimg.cc/MKr3xXFZ/flat-design-cms-illustration-23-2148822448.jpg" alt="Shoes" className="rounded-xl h-52 w-full" />
             </figure>

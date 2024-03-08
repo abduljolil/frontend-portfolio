@@ -4,7 +4,7 @@ import { TbBrandJavascript } from "react-icons/tb";
 const FrontendSkill = () => {
  
   return (
-    <div className="card w-96 bg-base-100 shadow-xl">
+    <div className="card   bg-base-100 shadow-xl">
       <figure  >
         <img src="https://i.postimg.cc/7hssfRsT/frontend-developer-typographic-header-website-interface-design-improvement-web-page-programming-codi.jpg" alt="Shoes" className="rounded-xl h-52 w-full" />
       </figure>
