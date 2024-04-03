@@ -36,14 +36,14 @@ const Navbar = () => {
                     </div>
                 </div>
             </div>
+           
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 font-bold">
                     {links}
                 </ul>
             </div>
-      
             <div className="navbar-end">
-            <a href="https://drive.google.com/file/d/1oCLfn9JRY0cGwtHGTkhk5xl83XgZudwF/view?usp=sharing" className=" btn btn-outline border-0 border-b-4 text-xl font-semibold uppercase bg-orange-500">Resume <span><IoMdDownload /></span></a>
+                <a href="https://drive.google.com/file/d/1GZa7qgvWiZwFuC0iW00zx1_QxIJKCrgB/view?usp=sharing" className=" btn btn-outline border-0 border-b-4 text-xl font-semibold uppercase bg-orange-500">Resume <span><IoMdDownload /></span></a>
             </div>
         </div>
     );
